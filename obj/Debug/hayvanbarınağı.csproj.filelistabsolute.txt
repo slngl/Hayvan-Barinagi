@@ -1,0 +1,21 @@
+C:\Users\Win7\source\repos\HayvanBarınağı\bin\Debug\HayvanBarınağı.exe.config
+C:\Users\Win7\source\repos\HayvanBarınağı\bin\Debug\HayvanBarınağı.exe
+C:\Users\Win7\source\repos\HayvanBarınağı\bin\Debug\HayvanBarınağı.pdb
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.csprojAssemblyReference.cache
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.Ana.resources
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.Properties.Resources.resources
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.Çalışan.resources
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.csproj.GenerateResource.cache
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.exe
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.pdb
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.Bagışçı.resources
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.Bölge.resources
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.Departman.resources
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.Hayvan.resources
+C:\Users\Win7\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.Sahip.resources
+E:\BİLGİSAYAR MÜHENDİSLİĞİ\5. dönem\vtys\hayvanbarınağı\HayvanBarınağı\obj\Debug\HayvanBarınağı.csprojAssemblyReference.cache
+E:\BİLGİSAYAR MÜHENDİSLİĞİ\5. dönem\vtys\hayvanbarınağı\HayvanBarınağı\obj\Debug\HayvanBarınağı.exe
+E:\BİLGİSAYAR MÜHENDİSLİĞİ\5. dönem\vtys\hayvanbarınağı\HayvanBarınağı\obj\Debug\HayvanBarınağı.pdb
+C:\Users\dseli\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.csprojAssemblyReference.cache
+C:\Users\dseli\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.exe
+C:\Users\dseli\source\repos\HayvanBarınağı\obj\Debug\HayvanBarınağı.pdb
